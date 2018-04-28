@@ -2,6 +2,7 @@ The colors
 purple
 pink
 red
+green
 blue
 orange
 These are the colors that i like.

@@ -5,6 +5,8 @@ red
 green
 unicorn
 blue
+indigo
+cyan
 orange
 These are the colors that i like.
 unicorn
